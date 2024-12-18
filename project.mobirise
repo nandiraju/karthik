@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2024-12-17 16:12",
+    "name": "Karthik Nandiraju",
     "currentPage": "index.html",
     "theme": {
       "name": "expertm5",
@@ -34,6 +34,15 @@
     "versionFirst": "5.9.18",
     "siteFonts": [],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/banner-home-128x87.png",
+    "mbrsiteDomain": "kyprvzp5qh",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.9.18"
   },
@@ -41,7 +50,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "[ Karthik Nandiraju ]",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
